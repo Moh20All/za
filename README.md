@@ -3,4 +3,4 @@ Copy of ur code ofc
 
 
 
-<a href="https://th4kbrain.github.io/za/"><h1>Check website </h1></a>
+<h1><a href="https://th4kbrain.github.io/za/">Check website</a> </h1>
